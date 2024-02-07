@@ -1,1 +1,1 @@
-console.log('Subtraction')
+console.log('Subtraction');
